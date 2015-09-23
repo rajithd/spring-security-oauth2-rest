@@ -3,7 +3,7 @@ Oauth 2 Demo
 
 Spring OAuth 2.0 Demo
 ----------------------
-
+http://blog.rajithdelantha.com/2015/09/secure-your-rest-api-with-spring.html
 
 Oauth2 refresh token request
 ----------------------------
@@ -38,4 +38,4 @@ scope: "read trust write"
 
 Protected Resource
 ------------------
-http://localhost:8080/oauth2/test/ateam
+http://localhost:8080/oauth2/test/ateam?access_token=d78dd4c7-41c3-443d-a85e-3716ceefc66f
